@@ -261,7 +261,7 @@ export default function Home() {
                   <img
                         src="https://media.better.com/better-com/homepage/learning-center/first-home.webp"
                         alt="Insurance Icon"
-                        className="h-5 w-5"
+  className="w-full h-full object-cover"
                       />
                   </div>
                 </div>
@@ -338,7 +338,7 @@ export default function Home() {
                       <img
                         src="https://media.better.com/better-com/homepage/learning-center/better-heloc.webp"
                         alt="Insurance Icon"
-                        className="h-5 w-5"
+  className="w-full h-full object-cover"
                       />
                     </div>
                   </div>
@@ -388,7 +388,7 @@ export default function Home() {
                     <img
                       src="https://media.better.com/better-com/homepage/learning-center/insurance.webp"
                       alt="Insurance Icon"
-                      className="h-5 w-5"
+  className="w-full h-full object-cover"
                     />
                   </div>
                 </div>
